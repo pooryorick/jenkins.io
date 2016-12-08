@@ -57,7 +57,7 @@ For other scenarios, see link:/doc/book/appendix/advanced-installation/[Advanced
 
 === Stand-alone or Servlet?
 
-Jenkins can run stand-alone in it's own process using it's own web server.
+Jenkins can run stand-alone in its own process using its own web server.
 It can also run as one servlet in an existing framework, such as Tomcat.
 This section is specifically targeted to stand-alone install and execution.
 For other scenarios, see link:/doc/book/appendix/advanced-installation/[Advanced Jenkins Installation]
